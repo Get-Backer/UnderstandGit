@@ -1,4 +1,5 @@
 # UnderstandGit
 Learning ways of Git
 
-Hello World
+Hello Ganesh
+Checking how diff works
